@@ -1,0 +1,94 @@
+ADOBE INDESIGN-AFDRUKINSTRUCTIES VOOR SERVICE PROVIDER
+
+NAAM PUBLICATIE: TOD#21 cover DEF.indd
+
+PAKKETDATUM: 31-10-16 17:12
+Aanmaakdatum: 31-10-16
+Wijzigingsdatum: 31-10-16
+
+CONTACTGEGEVENS
+
+Bedrijfsnaam: 
+Contactpersoon: 
+Adres: 
+
+
+
+
+
+Telefoon: 
+Fax: 
+E-mail: 
+
+SPECIALE INSTRUCTIES EN ANDERE OPMERKINGEN
+
+
+
+
+
+
+Externe plug-ins 0
+Niet-dekkende objecten: Geen
+
+LETTERTYPEN
+6 gebruikte lettertypen; 0 ontbrekend, 0 ingesloten, 0 onvolledig, 0 beveiligd
+
+Lettertypen ingesloten
+- Naam: HelveticaNeue-Bold; Type: Type 1, Status: OK
+- Naam: HelveticaNeue-Light; Type: Type 1, Status: OK
+- Naam: HelveticaNeue-LightItalic; Type: Type 1, Status: OK
+- Naam: TradeGothic-BoldTwo; Type: Type 1, Status: OK
+- Naam: TradeGothic-Light; Type: Type 1, Status: OK
+- Naam: TradeGothic-LightOblique; Type: Type 1, Status: OK
+
+
+KLEUREN EN INKTEN
+4 procesinkten; 0 steuninkten
+
+- Naam en type: Proceskleur Cyaan; Hoek: 75,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Magenta; Hoek: 15,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Geel; Hoek: 0,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Zwart; Hoek: 45,000; Lijnen/inch: 70,000
+
+
+KOPPELINGEN EN AFBEELDINGEN
+(Alleen ontbrekende en ingesloten koppelingen)
+Koppelingen en afbeeldingen: 0 gevonden koppelingen; 0 gewijzigd, 0 ontbrekend 0 Niet toegankelijk
+Afbeeldingen: 0 ingesloten, 0 gebruiken RGB-kleurruimte
+
+AFDRUKINSTELLINGEN
+PPD: HP Color LaserJet CP5220 Series, (HP Color LaserJet CP5225dn (0E269D))
+Afdrukken naar: Printer
+Aantal exemplaren: 1
+Lezer spreads: Nee
+Even/oneven pagina's: Beide
+Pagina's: Alles
+Proef: Nee
+Naast elkaar: Geen
+Schalen: 100%, 100%
+Paginapositie: Gecentreerd
+Lagen afdrukken: Zichtbare & afdrukbare lagen
+Drukkersmarkeringen: Geen
+Afloopgebied: 0 mm, 0 mm, 0 mm, 0 mm
+Kleur: Samengesteld CMYK
+Overvulmodus: Geen
+Afbeeldingsgegevens verzenden: Alles
+Vervanging OPI/DCS-afbeelding: Nee
+Paginaformaat: Aangepast: 155,9 mm x 233,8 mm
+Papierafmetingen: 297,039 mm x 420,158 mm
+Stand: Liggend
+Negatief: Nee
+Spiegelmodus: Uit
+
+
+BESTANDSPAKKETLIJST
+
+1. TOD#21 cover DEF.indd; type: Adobe InDesign-publicatie; grootte: 1484K
+2. HelveNeuBol; type: Lettertypebestand; grootte: 30K
+3. HelveticaNeue; type: Lettertypebestand; grootte: 465K
+4. HelveNeuLig; type: Lettertypebestand; grootte: 30K
+5. HelveNeuLigIta; type: Lettertypebestand; grootte: 30K
+6. TradeGotBolTwo; type: Lettertypebestand; grootte: 28K
+7. TradeGothic; type: Lettertypebestand; grootte: 298K
+8. TradeGotLig; type: Lettertypebestand; grootte: 26K
+9. TradeGotLigObl; type: Lettertypebestand; grootte: 34K

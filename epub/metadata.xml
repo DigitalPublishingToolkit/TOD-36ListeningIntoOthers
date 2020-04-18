@@ -1,0 +1,24 @@
+<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
+<meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
+<dc:title id="epub-title-1">The List Serves</dc:title>
+<meta refines="#epub-title-1" property="title-type">main</meta>
+<dc:publisher>Institute of Network Cultures</dc:publisher>    
+<dc:date id="epub-date">2017-02</dc:date>
+<dc:language>en-US</dc:language>
+<dc:creator id="epub-creator-0">Kenneth C. Werbin</dc:creator>
+<meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
+<dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
+<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-5">Leonieke van Dipten</dc:contributor>
+<meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
+<dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
+<dc:subject>Lists</dc:subject>
+<dc:description>PUBLICATION SYNOPSIS</dc:description>
+
+
+
+
+
+
+
+
